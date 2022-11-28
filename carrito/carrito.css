@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-color: #5e5e3e;
+    font-size: 30px;
+}
+button{
+    background-color: gray;
+    size: 20px;
+}
